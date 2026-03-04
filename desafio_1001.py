@@ -12,3 +12,13 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
+# Lê os dois valores de entrada (um em cada linha)
+a = int(input())
+b = int(input())
+
+# Efetua a soma
+x = a + b
+
+# Imprime o resultado no formato exato solicitado: "X = [valor]"
+# O Python, por padrão, já adiciona o caractere de nova linha (\n) ao final do print
+print(f"X = {x}")
