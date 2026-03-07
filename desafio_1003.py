@@ -15,3 +15,12 @@ de A e B.
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1003
 
 # Escreva sua solução abaixo
+# Leitura dos valores de entrada
+A = int(input())
+B = int(input())
+
+# Cálculo da soma
+SOMA = A + B
+
+# Exibição do resultado com a formatação solicitada
+print(f"SOMA = {SOMA}")
