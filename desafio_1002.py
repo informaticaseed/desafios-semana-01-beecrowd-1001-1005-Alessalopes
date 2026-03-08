@@ -13,7 +13,7 @@ no caso, a variável raio.
 Saída: Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme
 exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão
 (double).
-"""
+""" 
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1002
 
