@@ -17,7 +17,7 @@ a = int(input())
 b = int(input())
 
 # Efetua a soma
-x = a + b
+x = a + b 
 
 # Imprime o resultado no formato exato solicitado: "X = [valor]"
 # O Python, por padrão, já adiciona o caractere de nova linha (\n) ao final do print
