@@ -18,3 +18,12 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1005
 
 # Escreva sua solução abaixo
+# Lê as duas notas
+a = float(input())
+b = float(input())
+
+# Calcula a média ponderada
+media = (a * 3.5 + b * 7.5) / 11.0
+
+# Exibe o resultado formatado com uma casa decimal
+print(f"MEDIA = {media:.5f}")
